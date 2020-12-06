@@ -1,5 +1,5 @@
 # Machine Learning
-This demo is an adaptation of the first two sections of the [Machine Learning A-Z course on Udemy](https://www.udemy.com/course/machinelearning "Udemy course")
+This demo is an adaptation of the first two sections of the [Machine Learning A-Z course on Udemy](https://www.udemy.com/course/machinelearning "Udemy course"). It will take in a CSV file where the dependent values are in the last column. The demo will then apply 5 different regression methods and find the R<sup>2</sup> scores of the methods and output the best score.
 
 ## prerequisites
 1)Python 3.7 or higher
